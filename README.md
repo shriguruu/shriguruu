@@ -6,8 +6,8 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=safari&logoColor=black)](https://gshriguruu.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gshriguruu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=safari&logoColor=black)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gshriguruu@gmail.com)
 
 </div>
@@ -21,8 +21,11 @@ I'm a **third-year B.Tech student** specializing in **Artificial Intelligence an
 - 🔭 Currently working on **full-stack web development projects**
 - 🌱 Learning **advanced AI/ML techniques** and **modern web frameworks**
 - 👯 Looking to collaborate on **open-source projects** and **innovative web solutions**
-- 💬 Ask me about **Python, Java, Web Development, or AI/ML**
-- ⚡ Fun fact: I love building **responsive and intuitive** user interfaces
+- 💬 Ask me about **Python, Java, Web Development, AI/ML, or the latest F1 race results!**
+- 🏎️ **Avid Formula 1 fan** - Always ready to discuss race strategies and driver performances
+- 🖥️ **PC Building enthusiast** - Love assembling high-performance rigs and optimizing specs
+- 📱 **Mobile tech geek** - Always up-to-date with the latest smartphone innovations
+- 🚗 **Car enthusiast** - Passionate about automotive technology and engineering.
 
 ---
 
@@ -65,9 +68,8 @@ I'm a **third-year B.Tech student** specializing in **Artificial Intelligence an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriguruu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
+
 ---
-
-
 
 ## 🎯 Core Competencies
 
@@ -90,8 +92,11 @@ class ShriGuruuG:
         }
     
     def get_interests(self):
-        return ["Web Development", "Machine Learning", "Data Science", 
-                "Open Source", "Problem Solving"]
+        return {
+            "tech": ["Web Development", "Machine Learning", "Data Science", "Open Source"],
+            "hobbies": ["Formula 1 Racing", "PC Building", "Mobile Technology", "Cars & Automotive"],
+            "passions": ["Problem Solving", "Performance Optimization", "Latest Tech Trends"]
+        }
 
 me = ShriGuruuG()
 ```
@@ -104,6 +109,30 @@ me = ShriGuruuG()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shriguruu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
+---
+
+## 🌟 What I'm Up To
+
+```yaml
+current_focus:
+  - Building full-stack web applications with modern frameworks
+  - Exploring advanced machine learning algorithms
+  - Contributing to open-source projects
+  - Learning cloud technologies and DevOps practices
+
+goals_2025:
+  - Complete 3+ full-stack projects
+  - Get internship at a tech company
+  - Build my ultimate gaming/development PC setup
+  - Attend a Formula 1 Grand Prix live 🏁
+
+fun_facts:
+
+  - Can name every F1 driver's lap record at Monaco 🏎️
+  - Always have the latest phone specs memorized 📱
+  - Love the smell of new car interiors and fresh thermal paste equally 🚗
+  - My GitHub commits increase during F1 off-season 📊
+```
 
 ---
 
@@ -127,8 +156,10 @@ I'm always excited to collaborate on interesting projects or discuss technology!
 
 <div align="center">
   
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+  **"The way to get started is to quit talking and begin doing... unless it's during an F1 race, then we watch first!"** - Inspired by Walt Disney & F1 Passion
   
+  🏎️ **Current F1 Season Follower** | 🖥️ **PC Master Race** | 📱 **Mobile Tech Explorer** | 🚗 **Car Enthusiast** 
+
   
 </div>
 
