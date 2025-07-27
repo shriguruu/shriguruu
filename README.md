@@ -71,20 +71,6 @@ I'm a **third-year B.Tech student** specializing in **Artificial Intelligence an
 
 ---
 
-## 📫 Let's Connect!
-
-I'm always excited to collaborate on interesting projects or discuss technology! Feel free to reach out:
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Email-gshriguruu@gmail.com-64FFDA?style=for-the-badge)](mailto:gshriguruu@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐱_GitHub-shriguruu-64FFDA?style=for-the-badge)](https://github.com/shriguruu)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Live-64FFDA?style=for-the-badge)](https://gshriguruu.netlify.app)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shriguruu&color=64ffda&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
