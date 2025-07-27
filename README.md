@@ -71,37 +71,6 @@ I'm a **third-year B.Tech student** specializing in **Artificial Intelligence an
 
 ---
 
-## 🎯 Core Competencies
-
-```python
-class ShriGuruuG:
-    def __init__(self):
-        self.name = "Shri Guruu G"
-        self.role = "Full Stack Developer & AI Enthusiast"
-        self.education = "B.Tech AI & Data Science"
-        self.location = "Chennai, India"
-    
-    def get_skills(self):
-        return {
-            "languages": ["Java", "Python", "C/C++", "HTML/CSS", "JavaScript"],
-            "frameworks": ["Django", "Streamlit"],
-            "libraries": ["Pandas", "NumPy", "Scikit-Learn"],
-            "databases": ["MySQL", "SQLite"],
-            "tools": ["Git", "VS Code", "Linux"],
-            "concepts": ["OOP", "DBMS", "Data Structures", "Algorithms", "ML"]
-        }
-    
-    def get_interests(self):
-        return {
-            "tech": ["Web Development", "Machine Learning", "Data Science", "Open Source"],
-            "hobbies": ["Formula 1 Racing", "PC Building", "Mobile Technology", "Cars & Automotive"],
-            "passions": ["Problem Solving", "Performance Optimization", "Latest Tech Trends"]
-        }
-
-me = ShriGuruuG()
-```
-
----
 
 ## 📈 Contribution Graph
 
@@ -111,30 +80,6 @@ me = ShriGuruuG()
 
 ---
 
-## 🌟 What I'm Up To
-
-```yaml
-current_focus:
-  - Building full-stack web applications with modern frameworks
-  - Exploring advanced machine learning algorithms
-  - Contributing to open-source projects
-  - Learning cloud technologies and DevOps practices
-
-goals_2025:
-  - Complete 3+ full-stack projects
-  - Get internship at a tech company
-  - Build my ultimate gaming/development PC setup
-  - Attend a Formula 1 Grand Prix live 🏁
-
-fun_facts:
-
-  - Can name every F1 driver's lap record at Monaco 🏎️
-  - Always have the latest phone specs memorized 📱
-  - Love the smell of new car interiors and fresh thermal paste equally 🚗
-  - My GitHub commits increase during F1 off-season 📊
-```
-
----
 
 ## 📫 Let's Connect!
 
