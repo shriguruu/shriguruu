@@ -67,48 +67,7 @@ I'm a **third-year B.Tech student** specializing in **Artificial Intelligence an
 
 ---
 
-## 🏆 Featured Projects
 
-### 🎯 Conference Booking System
-> A comprehensive full-stack web application for conference management and booking
-
-**Tech Stack:** `Python` `Django` `HTML/CSS` `MySQL`
-
-- ✅ Secure user authentication and role-based access control
-- ✅ Intuitive booking interface with real-time availability
-- ✅ Efficient database operations using Django ORM
-- ✅ Responsive design for seamless user experience
-
-[![View Project](https://img.shields.io/badge/View_Project-64FFDA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shriguruu/conference-booking-system)
-
-### 🏠 Bengaluru House Price Prediction
-> ML-powered web application for accurate house price prediction
-
-**Tech Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
-
-- ✅ Advanced data preprocessing and feature engineering
-- ✅ Machine learning model with high prediction accuracy
-- ✅ Interactive web interface built with Streamlit
-- ✅ Real-time price predictions with instant feedback
-
-[![View Project](https://img.shields.io/badge/View_Project-64FFDA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shriguruu/house-price-prediction)
-
----
-
-## 🎓 Education & Certifications
-
-### 🎓 Academic Background
-- **B.Tech in Artificial Intelligence and Data Science** | Shiv Nadar University Chennai  
-  *CGPA: 8.69* | *2023 - Present*
-  
-- **Higher Secondary Education** | Velammal Vidhyashram Mambakkam  
-  *95.2%* | *2023*
-
-### 📜 Certifications
-- **NPTEL - Ethical Hacking** | [View Certificate](https://drive.google.com/file/d/1CT0y4bD_bdXuGE13_AyWRmuzA9z2DbdL/view?usp=sharing)
-- **NPTEL - Programming in Java** | [View Certificate](https://drive.google.com/file/d/1-G1GjCZR4vQrS319TXPVevjnQ_7F1NWH/view?usp=sharing)
-
----
 
 ## 🎯 Core Competencies
 
