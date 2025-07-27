@@ -104,30 +104,6 @@ me = ShriGuruuG()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shriguruu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
----
-
-## 🌟 What I'm Up To
-
-```yaml
-current_focus:
-  - Building full-stack web applications with modern frameworks
-  - Exploring advanced machine learning algorithms
-  - Contributing to open-source projects
-  - Learning cloud technologies and DevOps practices
-
-goals_2024:
-  - Complete 10+ full-stack projects
-  - Contribute to 5+ open-source repositories
-  - Master React.js and Node.js
-  - Build an AI-powered SaaS application
-  - Get internship at a tech company
-
-fun_facts:
-  - I debug with console.log() and I'm not ashamed! 😄
-  - Coffee-driven developer ☕
-  - Love creating pixel-perfect UIs
-  - Always excited about new tech trends
-```
 
 ---
 
@@ -138,9 +114,8 @@ I'm always excited to collaborate on interesting projects or discuss technology!
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📧_Email-gshriguruu@gmail.com-64FFDA?style=for-the-badge)](mailto:gshriguruu@gmail.com)
-[![Phone](https://img.shields.io/badge/📱_Phone-+91_9360120791-64FFDA?style=for-the-badge)](tel:+919360120791)
 [![GitHub](https://img.shields.io/badge/🐱_GitHub-shriguruu-64FFDA?style=for-the-badge)](https://github.com/shriguruu)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Live-64FFDA?style=for-the-badge)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Live-64FFDA?style=for-the-badge)](https://gshriguruu.netlify.app)
 
 </div>
 
@@ -154,7 +129,6 @@ I'm always excited to collaborate on interesting projects or discuss technology!
   
   **"Code is like humor. When you have to explain it, it's bad."** - Cory House
   
-  ⭐ **If you like my projects, please give them a star!** ⭐
   
 </div>
 
