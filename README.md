@@ -71,16 +71,6 @@ I'm a **third-year B.Tech student** specializing in **Artificial Intelligence an
 
 ---
 
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shriguruu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-
 ## 📫 Let's Connect!
 
 I'm always excited to collaborate on interesting projects or discuss technology! Feel free to reach out:
